@@ -4,6 +4,10 @@
 
 # How to use
 ## input data
-* Threshold value (float value)
+* Threshold value (real (float) type)
 
-* image array(numpy 2D array, [x pixel $\times$ y pixel])
+* Image array(numpy 2D array, [x pixel $\times$ y pixel])
+
+* Bad pixel array for x (numpy array)
+
+* Bad pixel array for y (numpy array)
