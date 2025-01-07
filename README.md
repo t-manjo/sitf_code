@@ -14,3 +14,5 @@
 
 ## function
 * process_one_threshold(Threshold value, Image array, Bad pixel array for x, Bad pixel array for y)
+
+  This function translates from image array to sitf data lists. The return value is sitf data.
