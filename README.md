@@ -17,4 +17,4 @@
 
   This function translates from image array to sitf data lists. The return value is sitf data[^1].
 
-  [^1]sitf data is defined as the class.
+  [^1]: sitf data is defined as the class.
