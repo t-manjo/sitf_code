@@ -11,3 +11,6 @@
 * Bad pixel array for x (numpy array)
 
 * Bad pixel array for y (numpy array)
+
+## function
+* process_one_threshold(Threshold value, Image array, Bad pixel array for x, Bad pixel array for y)
