@@ -1,6 +1,6 @@
 # OUTLINE
 
-**sitf(sparse image text format)** is a new file format for sparse image data. This format compresses data without losing information while improving human readability and contributing to more ef􀏐icient use of storage.
+**sitf(sparse image text format)** is a new file format for sparse image data. This format compresses data without losing information while improving human readability and contributing to more efficient use of storage.
 
 # How to use
 ## input data
