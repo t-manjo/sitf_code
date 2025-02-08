@@ -1,6 +1,6 @@
 # OUTLINE
 
-**sitf(sparse image text format)** is a new file format for sparse image data. This format compresses data without losing information while improving human readability and contributing to more efficient use of storage.
+**sitf(sparse image text format)** is a new file format for sparse image data obtained by position-sensitive X-ray detectors. This format compresses data without losing information while improving human readability and contributing to more efficient use of storage.
 
 # How to use
 ## input data
@@ -12,7 +12,7 @@
 
 * Bad pixel array for y (numpy array)
 
-## function
+## main function in sitf.py
 * process_one_threshold(Threshold value, Image array, Bad pixel array for x, Bad pixel array for y)
 
   This function translates from image array to sitf data lists. The return value is sitf data[^1].
